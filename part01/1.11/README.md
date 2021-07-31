@@ -36,3 +36,7 @@ Run container.
 ~ $ docker run -d -p 8080:8080 dowd-1.11
 8525691d8b985c527f8e76c29f065d5881365cd25e475dce91265986e7124465
 ```
+
+Visiting `localhost:8080`
+
+![Output images](https://github.com/nathanramli/devops-with-docker/blob/main/part01/1.11/website.png?raw=true)
